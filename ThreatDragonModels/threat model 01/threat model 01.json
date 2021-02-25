@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "threat model 01",
+    "description": "test",
+    "owner": "zhou"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "prince"
+  }
+}
